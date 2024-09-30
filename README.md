@@ -4,9 +4,9 @@ Overview-
 The Job Portal Application is a web application designed to connect job seekers with employers and universities. Users can create profiles, browse job listings, and manage their applications. The application features user authentication, profile management, and responsive design for a seamless user experience. For the universities and employers to apply each other a similar page mentioned in the current page can be referred because a similar backend can be considered for it. And the frontend remains similar as job-seeker for university.
 
 Tech Stack Used-
-React for Frontend , 
-Node.js, Express.js for Backend,
-MongoDB for Database,
+React for Frontend ;
+Node.js, Express.js for Backend;
+MongoDB for Database;
 Redux and Redux Toolkit for State Management
 
 Loom Video Link:
